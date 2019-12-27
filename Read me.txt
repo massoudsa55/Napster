@@ -1,0 +1,1 @@
+add this  file tika-app-1.21.jar in Library of project
